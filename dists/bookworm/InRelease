@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Dumbass Repo
+Label: Github repo
+Suite: stable
+Codename: bookworm
+Date: Thu, 14 Aug 2025 18:44:07 UTC
+Architectures: amd64
+Components: main
+Description: Debian x64 github repository
+MD5Sum:
+ ee7d0a1ba2c5099be4e239ff4bc52ce0 543 main/binary-amd64/Packages
+ a2849113370b0ab0d4f7b0af1eb39873 402 main/binary-amd64/Packages.gz
+ da3c4f6ca3dd381765b35543829ca4ee 134 main/binary-amd64/Release
+SHA1:
+ 7f53c8061ed4500275cf09d2dd246b7e7cc418d5 543 main/binary-amd64/Packages
+ bf5861ee884bc1266f26a80ad443b6d74118b8bd 402 main/binary-amd64/Packages.gz
+ e97d400049693edbfffe7f8ce089b6c7c6127e6e 134 main/binary-amd64/Release
+SHA256:
+ 0c33789d78de73049770039ebb3679418a51cfa1877ec16b3b619c886571c68a 543 main/binary-amd64/Packages
+ 1c3e6d8fb2340ef8dd05a0aeed799e3d8acbb56bf10a9e4ff3f4b80a68dddb64 402 main/binary-amd64/Packages.gz
+ 22d01efa6f2df9e1b16c8d249a36b308c8dd2453c021105eee8c7ebd5fc3f195 134 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEx/5ZsJk4WbOfpohNkBIkefMxaH4FAmieLnwACgkQkBIkefMx
+aH4dGwwAsNXkcnnvhjNi9BaamnHmwo65RXIx+Ryn1kU2AQ1Hb4xRJg5/1nofsTOe
+t5t3bhl23iu5gjlae3xg7Hg54NhOqBG+THS5IxVX4pH6aaIOSayNAn89FXfGsRGT
+OvFbPvqmgHhX4niL1zOLAm3M2+hBHInkshq5ecT5PWu17apx9gIJeHYvVFRyYVMy
+XJ1keMGEEIX/l7sHZT/jKdj6elJsJhuMrZOa4wrtNmG/1QCH0lgH4hROflVTGH6f
+EsqkhXFo7u9rClO5xSSLOJAzm1FSUY947CVuao4LSmTdKGinpj5iOioWXKRHrFcM
+THJ6rkBaCIX5fUOUy5OkdzPSbbTjfgVfM6ZZ1oqc8wm3YcqQSo6Q2J6iaRBnBtEM
+tOFaP0jpkyWIHUav1FWPeKSWv3fTiZBAiKTfF11iB3wpzSpBkDND9i7Ak0XGxClL
+DvIRQ+vU++k+44PJNpFDmnCBABohzeij8MNmJynMLDZQ1nk7m1JnZx5AtV2tP7zk
+ZfJb74HU
+=CWoC
+-----END PGP SIGNATURE-----

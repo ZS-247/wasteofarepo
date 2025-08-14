@@ -1,0 +1,17 @@
+Package: waste
+Version: 1.0-1
+Architecture: amd64
+Maintainer: Firstname Lastname <email@address.org>
+Installed-Size: 31
+Depends: libc6 (>= 2.34)
+Homepage: <insert the upstream URL, if relevant>
+Priority: 0
+Section: utils
+Filename: pool/main/w/waste/waste_1.0-1_amd64.deb
+Size: 5872
+SHA256: 9ae659de0811e51634ee75c112b01f9d3dd49da18288a2f8de4f2adbb2400024
+SHA1: adaa4dfc944c55598e48ce35df763e69b609d8ce
+MD5sum: 378d2673b6e88103b8a5ac2b65a6d1f5
+Description: <insert up to 60 chars description>
+ <Insert long description, indented with spaces.>
+

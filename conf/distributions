@@ -1,0 +1,8 @@
+Origin: Dumbass Repo 
+Label: Github repo 
+Suite: stable
+Codename: bookworm
+Architectures: amd64
+Components: main
+SignWith: C7FE59B0993859B39FA6884D90122479F331687E
+Description: Debian x64 github repository
