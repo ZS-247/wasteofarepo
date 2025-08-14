@@ -1,12 +1,58 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<title>Waste of an apt repo</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Waste Repo - Installation Guide</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      background-color: #f8f9fa;
+      color: #333;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    h1, h2 {
+      color: #222;
+    }
+    pre {
+      background-color: #272822;
+      color: #f8f8f2;
+      padding: 12px;
+      border-radius: 6px;
+      overflow-x: auto;
+    }
+    code {
+      font-family: monospace;
+    }
+    footer {
+      margin-top: 30px;
+      font-size: 0.9em;
+      color: #666;
+    }
+  </style>
 </head>
 <body>
 
-<h1>yes</h1>
-<p>uh huh</p>
+  <h1>Waste Repo - Installation Guide</h1>
+  <p>Follow these steps to add the Waste Repo to your Debian-based system (e.g., Debian 12 Bookworm).</p>
+
+  <h2>1. Add the repository key</h2>
+  <pre><code>sudo mkdir -p /etc/apt/keyrings
+curl -fsSL https://zs-247.github.io/wasteofarepo/repo.asc | sudo gpg --dearmor -o /etc/apt/keyrings/wasteofarepo.gpg</code></pre>
+
+  <h2>2. Add the repository</h2>
+  <pre><code>echo "deb [signed-by=/etc/apt/keyrings/wasteofarepo.gpg] https://zs-247.github.io/wasteofarepo bookworm main" | sudo tee /etc/apt/sources.list.d/wasteofarepo.list</code></pre>
+
+  <h2>3. Update and install packages</h2>
+  <pre><code>sudo apt update
+sudo apt install &lt;package-name&gt;</code></pre>
+
+  <footer>
+    &copy; 2025 Waste Repo - <a href="https://zs-247.github.io/wasteofarepo">Repository Homepage</a>
+  </footer>
 
 </body>
-</html
+</html>
