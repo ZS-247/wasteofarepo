@@ -1,17 +1,25 @@
 Package: waste
-Version: 1.0-1
+Version: 1.0.1-1
 Architecture: amd64
-Maintainer: Firstname Lastname <email@address.org>
-Installed-Size: 31
+Maintainer: Wasty McWasteface <waste@digdig.org>
+Installed-Size: 27
 Depends: libc6 (>= 2.34)
-Homepage: <insert the upstream URL, if relevant>
+Homepage: https://github.com/ZS-247/wasteofspace
 Priority: 0
 Section: utils
-Filename: pool/main/w/waste/waste_1.0-1_amd64.deb
-Size: 5872
-SHA256: 9ae659de0811e51634ee75c112b01f9d3dd49da18288a2f8de4f2adbb2400024
-SHA1: adaa4dfc944c55598e48ce35df763e69b609d8ce
-MD5sum: 378d2673b6e88103b8a5ac2b65a6d1f5
-Description: <insert up to 60 chars description>
- <Insert long description, indented with spaces.>
+Filename: pool/main/w/waste/waste_1.0.1-1_amd64.deb
+Size: 5172
+SHA256: 12b6641b5fcb393896ffc7ed82d2a5f0b3c8e55b8f1d92c4c058315ff486e965
+SHA1: 2ba79dce8f7b3021c5273f2f1f33c8a5daf8bd2f
+MD5sum: 54487f05bbf1023d3e6b2896c6d7a32c
+Description: waste helps you waste space efficiently and conveniently
+ This package provides the waste command, which is a tool for
+ efficiently and conveniently and wasting disk space. It allows users
+ to waste a customizable amount of disk space by creating useless
+ files within the /tmp/ directory.
+ .
+ It is particularly useful for wasting large amount of time with it's
+ copious documentation and superfluous build system. Users who wish to
+ waste time in addition to their disk space may find this tool most
+ helpful and may even consider contributing to this open source project.
 

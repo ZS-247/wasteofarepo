@@ -5,33 +5,33 @@ Origin: Dumbass Repo
 Label: Github repo
 Suite: stable
 Codename: bookworm
-Date: Thu, 14 Aug 2025 18:44:07 UTC
+Date: Fri, 15 Aug 2025 16:09:25 UTC
 Architectures: amd64
 Components: main
 Description: Debian x64 github repository
 MD5Sum:
- ee7d0a1ba2c5099be4e239ff4bc52ce0 543 main/binary-amd64/Packages
- a2849113370b0ab0d4f7b0af1eb39873 402 main/binary-amd64/Packages.gz
+ 9d8eb69029ba9a3d3b0afd991f97f300 1034 main/binary-amd64/Packages
+ c7fe37f23c5a0683f4f94b9aa6c112e4 648 main/binary-amd64/Packages.gz
  da3c4f6ca3dd381765b35543829ca4ee 134 main/binary-amd64/Release
 SHA1:
- 7f53c8061ed4500275cf09d2dd246b7e7cc418d5 543 main/binary-amd64/Packages
- bf5861ee884bc1266f26a80ad443b6d74118b8bd 402 main/binary-amd64/Packages.gz
+ 31887c8ceba25393c54b97f88b4f8c46a0a26437 1034 main/binary-amd64/Packages
+ 8c08f91a830af28313af88990db782833505f704 648 main/binary-amd64/Packages.gz
  e97d400049693edbfffe7f8ce089b6c7c6127e6e 134 main/binary-amd64/Release
 SHA256:
- 0c33789d78de73049770039ebb3679418a51cfa1877ec16b3b619c886571c68a 543 main/binary-amd64/Packages
- 1c3e6d8fb2340ef8dd05a0aeed799e3d8acbb56bf10a9e4ff3f4b80a68dddb64 402 main/binary-amd64/Packages.gz
+ ad0aae944aa7ea00fb362bfe29db23e3e0740cb3f0e930d9f2eeffaf761b060a 1034 main/binary-amd64/Packages
+ 505892efe47a97d925c765ac9c46c1014e411d28d09fb376d06e2df718a3cbd6 648 main/binary-amd64/Packages.gz
  22d01efa6f2df9e1b16c8d249a36b308c8dd2453c021105eee8c7ebd5fc3f195 134 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEx/5ZsJk4WbOfpohNkBIkefMxaH4FAmieLnwACgkQkBIkefMx
-aH4dGwwAsNXkcnnvhjNi9BaamnHmwo65RXIx+Ryn1kU2AQ1Hb4xRJg5/1nofsTOe
-t5t3bhl23iu5gjlae3xg7Hg54NhOqBG+THS5IxVX4pH6aaIOSayNAn89FXfGsRGT
-OvFbPvqmgHhX4niL1zOLAm3M2+hBHInkshq5ecT5PWu17apx9gIJeHYvVFRyYVMy
-XJ1keMGEEIX/l7sHZT/jKdj6elJsJhuMrZOa4wrtNmG/1QCH0lgH4hROflVTGH6f
-EsqkhXFo7u9rClO5xSSLOJAzm1FSUY947CVuao4LSmTdKGinpj5iOioWXKRHrFcM
-THJ6rkBaCIX5fUOUy5OkdzPSbbTjfgVfM6ZZ1oqc8wm3YcqQSo6Q2J6iaRBnBtEM
-tOFaP0jpkyWIHUav1FWPeKSWv3fTiZBAiKTfF11iB3wpzSpBkDND9i7Ak0XGxClL
-DvIRQ+vU++k+44PJNpFDmnCBABohzeij8MNmJynMLDZQ1nk7m1JnZx5AtV2tP7zk
-ZfJb74HU
-=CWoC
+iQGzBAEBCgAdFiEEx/5ZsJk4WbOfpohNkBIkefMxaH4FAmifW7kACgkQkBIkefMx
+aH440wwAs9me05q5k9gwcbxeOQJKAYpFsfA1Q/fNB0YDx3JpJ5A77opc8LFpjCBa
+T+JUUr4gdj4TpSMQGxYYdA5Ogu9MhQPqMYFwp8WhQB2kbhHsrmfPpR89HnOW1lTu
+VANZDcYS6XsAQKoHS09fv5EaxRi+z8T2tfT5WBzXqO7WYI7/zoyx8PnI2fcmSo0Y
+fXVVFQBoGZ3/kStRB/1OHr8of1AApL8kIZMsxowUyOWE1jH7icKmdEPhxy9kpA7/
+Rhb5lfMA9fjpHoGuYMcgPB6Cg0lOrrxTMPpQxkYurLpX2hnDpRp0cdKYgVQ7UuDH
+kmdjKhfLtQyus7F9lvfxCwI+t8KzDjTFHtm1RPhz8I1d5QNvvD5pTtp5XufzgtAQ
+yoUrrHmAIHncdg2xug3e5+NAmwdQabZ1JINsQsutZYXQ+jSPj08w+jrPLrMhBiEb
+bKEqNBcD4prNKjeRT7Wb54DBPi4nBGCYrKUQKddgTjm5UQM9oWrZhzJID7B4pXjA
+a3h/FK7u
+=UJQm
 -----END PGP SIGNATURE-----
